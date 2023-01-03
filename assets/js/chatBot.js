@@ -1,6 +1,6 @@
 // chatbot.js
 
-const API_KEY = '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';
+const API_KEY = 'YOUR API KEY HERE';
 const API_URL = 'https://api.openai.com/v1/completions';
 
 console.log(`API key: ${API_KEY}`);
